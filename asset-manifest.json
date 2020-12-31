@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Cv-Kiet17c3/static/css/main.789a347f.chunk.css",
+    "main.js": "/Cv-Kiet17c3/static/js/main.bba48d51.chunk.js",
+    "main.js.map": "/Cv-Kiet17c3/static/js/main.bba48d51.chunk.js.map",
+    "runtime-main.js": "/Cv-Kiet17c3/static/js/runtime-main.396a51e8.js",
+    "runtime-main.js.map": "/Cv-Kiet17c3/static/js/runtime-main.396a51e8.js.map",
+    "static/css/2.9a9a1f6f.chunk.css": "/Cv-Kiet17c3/static/css/2.9a9a1f6f.chunk.css",
+    "static/js/2.5434c593.chunk.js": "/Cv-Kiet17c3/static/js/2.5434c593.chunk.js",
+    "static/js/2.5434c593.chunk.js.map": "/Cv-Kiet17c3/static/js/2.5434c593.chunk.js.map",
+    "index.html": "/Cv-Kiet17c3/index.html",
+    "precache-manifest.3c54b57f141cb8c65644899c6a5f0893.js": "/Cv-Kiet17c3/precache-manifest.3c54b57f141cb8c65644899c6a5f0893.js",
+    "service-worker.js": "/Cv-Kiet17c3/service-worker.js",
+    "static/css/2.9a9a1f6f.chunk.css.map": "/Cv-Kiet17c3/static/css/2.9a9a1f6f.chunk.css.map",
+    "static/css/main.789a347f.chunk.css.map": "/Cv-Kiet17c3/static/css/main.789a347f.chunk.css.map",
+    "static/js/2.5434c593.chunk.js.LICENSE.txt": "/Cv-Kiet17c3/static/js/2.5434c593.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.396a51e8.js",
+    "static/css/2.9a9a1f6f.chunk.css",
+    "static/js/2.5434c593.chunk.js",
+    "static/css/main.789a347f.chunk.css",
+    "static/js/main.bba48d51.chunk.js"
+  ]
+}
